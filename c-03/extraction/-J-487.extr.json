@@ -1,0 +1,31 @@
+{
+    "beam_diameter": "",
+    "cleanup_duration": 0.0,
+    "commit": "3e7d26d0437aa93685eb7481b4fa8d2f560b5d66",
+    "extract_device": "Fusions CO2",
+    "extract_duration": 0.0,
+    "extract_units": "",
+    "extract_value": 0.0,
+    "grain_polygons": [],
+    "load_holder": "221-small-hole",
+    "load_name": "C0058",
+    "measured_response": "",
+    "pattern": "",
+    "positions": [
+        {
+            "is_degas": false,
+            "position": "",
+            "x": null,
+            "y": null,
+            "z": null
+        }
+    ],
+    "ramp_duration": 10.0,
+    "ramp_rate": 0.0,
+    "requested_output": "",
+    "setpoint_stream": "",
+    "snapshots": [],
+    "tray": "221-small-hole",
+    "videos": [],
+    "weight": 0
+}
