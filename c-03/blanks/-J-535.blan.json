@@ -1,0 +1,74 @@
+{
+    "Ar36": {
+        "error": 0.0001855128580063672,
+        "error_type": "",
+        "fit": "previous",
+        "references": [
+            {
+                "exclude": false,
+                "record_id": "bc-03-J-132"
+            }
+        ],
+        "value": 0.0028166738958462245
+    },
+    "Ar37": {
+        "error": 0.006040674965650464,
+        "error_type": "",
+        "fit": "previous",
+        "references": [
+            {
+                "exclude": false,
+                "record_id": "bc-03-J-132"
+            }
+        ],
+        "value": 0.038662943838756465
+    },
+    "Ar38": {
+        "error": 0.003092145069825429,
+        "error_type": "",
+        "fit": "previous",
+        "references": [
+            {
+                "exclude": false,
+                "record_id": "bc-03-J-132"
+            }
+        ],
+        "value": 0.009583184281905743
+    },
+    "Ar39": {
+        "error": 0.01246372535827237,
+        "error_type": "",
+        "fit": "previous",
+        "references": [
+            {
+                "exclude": false,
+                "record_id": "bc-03-J-132"
+            }
+        ],
+        "value": 0.018000463673736956
+    },
+    "Ar40": {
+        "error": 0.010193232239286797,
+        "error_type": "",
+        "fit": "previous",
+        "references": [
+            {
+                "exclude": false,
+                "record_id": "bc-03-J-132"
+            }
+        ],
+        "value": 0.2337469322210883
+    },
+    "Ar41": {
+        "error": 0.0025629478485269855,
+        "error_type": "",
+        "fit": "previous",
+        "references": [
+            {
+                "exclude": false,
+                "record_id": "bc-03-J-132"
+            }
+        ],
+        "value": 0.024641847581294698
+    }
+}
