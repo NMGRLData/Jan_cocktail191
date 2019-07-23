@@ -7,7 +7,7 @@
         "value": 1.0
     },
     "CDD": {
-        "error": 0.003318379297303952,
+        "error": 0.002445878001314458,
         "fit": "Bracketing Interpolate",
         "references": [
             {
@@ -107,7 +107,7 @@
             }
         ],
         "reviewed": true,
-        "value": 1.0057785331870872
+        "value": 1.0087832187074637
     },
     "H1": {
         "error": 1e-20,
