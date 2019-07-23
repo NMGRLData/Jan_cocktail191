@@ -7,8 +7,8 @@
         "value": 1.0
     },
     "CDD": {
-        "error": 0.0029288685571279027,
-        "fit": "Bracketing Interpolate",
+        "error": 0.0032622478168421428,
+        "fit": "Weighted Mean",
         "references": [
             {
                 "exclude": "ok",
@@ -96,7 +96,7 @@
                 "uuid": "e9235cbb-0ebb-45b5-99f0-bc7117b6200a"
             },
             {
-                "exclude": "omit",
+                "exclude": "ok",
                 "record_id": "a-02-J-1539",
                 "uuid": "fb8d0e23-6783-4046-8948-834ac3bcb085"
             },
@@ -107,7 +107,7 @@
             }
         ],
         "reviewed": true,
-        "value": 1.0016005744271144
+        "value": 1.0111170332071864
     },
     "H1": {
         "error": 1e-20,
