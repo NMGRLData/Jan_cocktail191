@@ -1,0 +1,34 @@
+{
+    "beam_diameter": "",
+    "cleanup_duration": 0.0,
+    "commit": "e1a3314ea8b592a0cd25199f731fae8d278407ee",
+    "extract_device": "Fusions CO2",
+    "extract_duration": 0.0,
+    "extract_units": "",
+    "extract_value": 0.0,
+    "grain_polygons": [
+        "cjFPN1R1RmFyVUVXQUJVQUZRQVdBQlFBRmdBVEFCY0FFZ0FYQUJJQUdBQVJBQmtBRVFBYUFCQUFHd0FRQUJ3QUVBQWRBQkVBSGdBUkFCOEFFZ0FnQUJNQUlRQVVBQ0lBRlFBaUFCWUFJZ0FYQUNJQUdBQWlBQmtBSVFBYUFDRUFHd0FnQUJ3QUh3QWNBQjRBSFFBZEFCMEFIQUFkQUJzQUhRQWFBQndBR1FBY0FCZ0FHd0FYQUJvQUZnQVpBQllBR0FBV0FCY0FGUUE9"
+    ],
+    "light_value": 0.0,
+    "load_holder": "221-small-hole",
+    "load_name": "C0078",
+    "measured_response": null,
+    "pattern": "",
+    "positions": [
+        {
+            "is_degas": false,
+            "position": "",
+            "x": null,
+            "y": null,
+            "z": null
+        }
+    ],
+    "ramp_duration": 5.0,
+    "ramp_rate": 0.0,
+    "requested_output": null,
+    "setpoint_stream": null,
+    "snapshots": [],
+    "tray": "",
+    "videos": [],
+    "weight": 0.0
+}
