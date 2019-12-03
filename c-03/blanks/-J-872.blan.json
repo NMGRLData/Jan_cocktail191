@@ -328,9 +328,9 @@
         "value": 0.03486271940939636
     },
     "Ar38": {
-        "error": 0.0022859299916563416,
+        "error": 0.000756491136200383,
         "error_type": "",
-        "fit": "Bracketing Interpolate",
+        "fit": "Weighted Mean_SEM",
         "references": [
             {
                 "exclude": "ok",
@@ -489,7 +489,7 @@
             }
         ],
         "reviewed": true,
-        "value": 0.006638436619175916
+        "value": 0.009266186922228612
     },
     "Ar39": {
         "error": 0.0026202254103406017,
