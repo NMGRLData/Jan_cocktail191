@@ -1,8 +1,8 @@
 {
     "acquisition_software": "pychron 19.6",
-    "aliquot": 1134,
+    "aliquot": 1146,
     "analysis_type": "cocktail",
-    "analyst_name": "",
+    "analyst_name": "CBurrill",
     "arar_mapping": {
         "Ar36": "Ar36",
         "Ar37": "Ar37",
@@ -89,62 +89,48 @@
             {
                 "device": "EnvironmentalMonitor",
                 "name": "Lab Hum.",
-                "pub_date": "2019-12-03T16:55:16",
+                "pub_date": "2019-12-04T14:27:46",
                 "title": "iServer Hum.",
-                "value": 23.2
+                "value": 28.8
             }
         ],
         "lab_pneumatics": [
             {
                 "device": "AirPressure",
                 "name": "Pressure",
-                "pub_date": "2019-12-03T17:41:31",
+                "pub_date": "2019-12-04T11:13:35",
                 "title": "Building",
-                "value": 100.4
+                "value": 100.8
             },
             {
                 "device": "AirPressure2",
                 "name": "Pressure2",
-                "pub_date": "2019-12-03T17:41:31",
+                "pub_date": "2019-12-04T12:48:45",
                 "title": "Lab",
-                "value": 86.9
+                "value": 87.5
             },
             {
                 "device": "MicroBoneGaugeController",
                 "name": "JanDecabinPressure",
-                "pub_date": "2019-12-03T06:15:00",
+                "pub_date": "2019-12-04T09:08:00",
                 "title": "Jan Decabin",
-                "value": 2.6
+                "value": 2.7
             }
         ],
         "lab_temperatures": [
             {
-                "device": "Coldfinger",
-                "name": "ColdFinger Temp.",
-                "pub_date": "2019-12-03T08:51:00",
-                "title": "Cold Finger",
-                "value": -197.0
-            },
-            {
                 "device": "EnvironmentalMonitor",
                 "name": "Lab Temp.",
-                "pub_date": "2019-12-03T17:57:39",
+                "pub_date": "2019-12-04T15:28:04",
                 "title": "iServer Temp.",
                 "value": 73.7
             },
             {
                 "device": "Chiller",
                 "name": "Coolant Temp.",
-                "pub_date": "2019-12-03T18:06:33",
+                "pub_date": "2019-12-04T15:29:02",
                 "title": "Coolant",
-                "value": 15.9
-            },
-            {
-                "device": "JanMonitor",
-                "name": "JanDecabinTemp",
-                "pub_date": "2019-12-03T10:40:31",
-                "title": null,
-                "value": 35.7460317460317
+                "value": 16.0
             }
         ]
     },
@@ -193,32 +179,32 @@
         }
     },
     "laboratory": "",
-    "latitude": "",
-    "lithology": "",
-    "lithology_class": "",
-    "lithology_group": "",
-    "lithology_type": "",
-    "longitude": "",
-    "mass_spectrometer": "jan",
-    "material": "",
+    "latitude": null,
+    "lithology": null,
+    "lithology_class": null,
+    "lithology_group": null,
+    "lithology_type": null,
+    "longitude": null,
+    "mass_spectrometer": "Jan",
+    "material": "Gas",
     "measurement": "jan_unknown120_60.py",
     "post_equilibration": "jan_pump_extraction_line.py",
     "post_measurement": "jan_pump_ms.py",
-    "principal_investigator": "",
-    "project": "",
-    "queue_conditionals_name": "",
+    "principal_investigator": "NMGRL",
+    "project": "REFERENCES",
+    "queue_conditionals_name": "---",
     "repository_identifier": "Jan_cocktail191",
-    "rlocation": null,
-    "sample": "",
+    "rlocation": "",
+    "sample": "cocktail",
     "source": {
-        "emission": 530.153,
-        "trap": 198.595
+        "emission": 527.355,
+        "trap": 198.259
     },
     "spec_sha": "70c98f3f5ef63648e99e42681f737fe9ca061e42",
-    "timestamp": "2019-12-03T18:08:12.938590",
+    "timestamp": "2019-12-04T15:38:10.694347",
     "tripped_conditional": null,
     "unit": null,
-    "username": "",
-    "uuid": "71219c8e-5cd0-4de8-8613-dbaf291b7e91",
+    "username": "CBurrill",
+    "uuid": "5d125066-38cf-4257-a43d-bd7dead1fc5c",
     "whiff_result": null
 }
