@@ -143,9 +143,9 @@
     "increment": null,
     "instrument_name": "",
     "intensity_scalar": 0.0,
-    "irradiation": "",
-    "irradiation_level": "",
-    "irradiation_position": "",
+    "irradiation": "Cocktail-03",
+    "irradiation_level": "A",
+    "irradiation_position": 2,
     "isotopes": {
         "Ar36": {
             "detector": "CDD",
@@ -195,7 +195,7 @@
     "queue_conditionals_name": "",
     "repository_identifier": "Jan_cocktail191",
     "rlocation": null,
-    "sample": "",
+    "sample": "cocktail",
     "source": {
         "emission": 528.815,
         "trap": 198.259
