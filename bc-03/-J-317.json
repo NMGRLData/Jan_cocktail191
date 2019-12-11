@@ -143,9 +143,9 @@
     "increment": null,
     "instrument_name": "",
     "intensity_scalar": 0.0,
-    "irradiation": "",
-    "irradiation_level": "",
-    "irradiation_position": "",
+    "irradiation": "NoIrradiation",
+    "irradiation_level": "A",
+    "irradiation_position": 30,
     "isotopes": {
         "Ar36": {
             "detector": "CDD",
@@ -186,16 +186,16 @@
     "lithology_type": "",
     "longitude": "",
     "mass_spectrometer": "jan",
-    "material": "",
+    "material": "Blank",
     "measurement": "jan_unknown280_45_no_center.py",
     "post_equilibration": "jan_pump_extraction_line.py",
     "post_measurement": "jan_pump_ms.py",
     "principal_investigator": "",
-    "project": "",
+    "project": "REFERENCES",
     "queue_conditionals_name": "",
     "repository_identifier": "Jan_cocktail191",
     "rlocation": null,
-    "sample": "",
+    "sample": "blank_cocktail",
     "source": {
         "emission": 526.503,
         "trap": 198.706
